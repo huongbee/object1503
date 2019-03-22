@@ -48,3 +48,6 @@ const B = new Point(0,1)
 const C = new Point(1,0)
 const ABC = new Triangle(A,B,C)
 console.log(ABC.getPerimeter())
+
+// module.exports = Line
+module.exports = {Point, Line, Triangle}

@@ -10,9 +10,9 @@ class Point{
         this.x = _toadox
     }
 }
-const A = new Point(1,1)
-// console.log(A.distance()) //false
-// console.log(A.distance) 
-A.toaDoX = 3
-// A.x = 2
-console.log(A)
+// const A = new Point(1,1)
+// // console.log(A.distance()) //false
+// // console.log(A.distance) 
+// A.toaDoX = 3
+// // A.x = 2
+// console.log(A)
